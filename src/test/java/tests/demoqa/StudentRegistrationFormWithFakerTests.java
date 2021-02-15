@@ -1,4 +1,4 @@
-package tests;
+package tests.demoqa;
 
 import com.codeborne.selenide.Configuration;
 import com.github.javafaker.Faker;
